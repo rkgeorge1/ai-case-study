@@ -36,6 +36,9 @@ Of course, there are still significant technical limitations and privacy concern
 * The telehealth industry is segmented by products and services. The services segment accounted for the maximum revenue share of the market in 2022. Teleconsultation services substantially reduce the waiting time for consultations and referrals. This is why an increasing number of hospitals are providing or deploying e-consultation services, which, in turn, is favoring the services segment growth.
 According to an article published in the Times of India in February 2023, the number of free telemedicine consultations in India crossed 100 million during the month. Such a high number is indicative of the increasing adoption of telemedicine services, thereby propelling the growth of services segment.
 The introduction of technologically advanced medical devices that can be connected wirelessly and integrated with mobile phones will aid the product segment's growth. Besides, the rapid adoption of wearable patient monitoring devices is expected to drive the segment’s expansion.
+
+* Segmentation Analysis:
+  
 **Segmentation by modality Analysis:** Rising Number of E-Visits to Boost Demand for Real-time Telehealth Solutions.
 On the basis of modality, the market is segmented into real-time, Store-and-Forward (S&F), and others.
 The real-time segment is expected to witness lucrative growth owing to the drastic rise in the number of e-visits. According to the On-demand Virtual Care Benchmark Survey, 32.1% of doctors in the U.S. had an on-demand virtual care service in 2018. This is likely to propel the growth of the real-time segment.
