@@ -1,6 +1,6 @@
 ## Overview and Origin
 
-* [(Teladoc Health Inc.)]([(Teladoc Health Inc.)](htts://teladoc.com)]
+* [(Teladoc Health Inc.)]([(Teladoc Health Inc.)][(htts://teladoc.com)]
 
 * Teladoc was founded in 2002 in Dallas, Texas by G. Byron Brooks EE MD and Michael Gorton. Billing itself as the oldest telemedicine company in United States,
 
