@@ -49,14 +49,14 @@ On the basis of modality, the market is segmented into real-time, Store-and-Forw
 The real-time segment is expected to witness lucrative growth owing to the drastic rise in the number of e-visits. According to the On-demand Virtual Care Benchmark Survey, 32.1% of doctors in the U.S. had an on-demand virtual care service in 2018. This is likely to propel the growth of the real-time segment.
 The increasing application of telehealth in the diagnosis of diseases, especially in dermatology and radiology, is expected to favor the expansion of the store-and-forward segment. Moreover, the rising internet penetration, even in rural areas, coupled with a significant increase in the number of smartphone users, is projected to augment the growth of the others segment.
 
-**Industry Segmentation by Application Analysis**
+** Industry Segmentation by Application Analysis **
 
 High Demand for Diagnostic and Image Interpretation Services to Spur Adoption of Teleradiology Services.
 Based on application, the market is fragmented into teleradiology, telepathology, telecardiology, telepsychiatry, teledermatology, and others.
 The teleradiology segment dominated the market in 2022 and is expected to maintain its dominance throughout the forecast period. Factors attributable to the expansion of this segment are advancements in Store-and-Forward (S&F) technologies and dearth of radiologists in rural areas. According to the Canada Association of Radiologists (CAR), there will be a need for 1,700 new radiologists during the period of 2019-2040. This factor is expected to drive the teleradiology segment.
 The increasing demand for digital health products and services for **behavioral health**, especially during the COVID-19 pandemic, is a key factor expanding the **telepsychiatry** segment. As per the Excellus BlueCross BlueShield survey, 22% of the e-visits made by the Excellus BlueCross BlueShield members in 2018 in the U.S. were for behavioral health, which included conditions, such as bipolar disorders, attention disorders, depression, and anxiety. Furthermore, in October 2022, the Union Ministry of Health & Family Welfare of India rolled out tele-mental health services across the nation. The network consisted of 23 tele-mental health centers of excellence, which will work with the International Institute of Information Technology, Bangalore and the National Institute of Mental Health and Neurosciences (NIMHANS).
 The rapid adoption of remote cardiac monitoring devices and m-health apps for tracking the heart and pulse rate is a prominent factor augmenting the growth of the telecardiology segment. The increasing number of dermatology visits and rising demand for dermatoscopes are likely to propel the teledermatology segment growth. The surging telemedicine applications in urology, neurology, chronic diseases, and others are also expected to propel the growth of the segment.
-**Industry Segmentation by End User Analysis**
+** Industry Segmentation by End User Analysis **
 Increasing Number of Government Initiatives to Boost the Adoption of **Telemedicine** among Healthcare Facilities. In terms of end user, the market is segmented into healthcare facilities, homecare, and others.
 The healthcare facilities segment is expected to dominate the market. The increasing number of government-funded pilot programs for telemedicine, use of telecommunications tools to train doctors in medical colleges, and rising number of service providers for virtual consultations are the primary factors poised to surge the healthcare facilities segment during 2023-2030.
 The homecare segment is projected to witness the fastest CAGR over the forecast period. Primary factors responsible for the growth of this segment are significant cost-saving in healthcare services expenditure and rising geriatric population. Furthermore, the adoption of telemonitoring to eliminate the need to visit hospitals is projected to fuel the segment’s growth in the future.
@@ -84,7 +84,7 @@ A [list](https://bstrategyhub.com/teladoc-competitors-and-alternatives/#2_OneMed
 
 ## Results
 
-*Financials and Performance Metrics
+* Financials and Performance Metrics
 Telaodoc's 2023 revenue grew 8% to $2.6 billion from $2.4 billion a year ago. The company's integrated care segment brought in revenue of $1.5 billion, up 7% from a year ago, and BetterHelp revenue jumped 11% to reach $1.1 billion in 2023.
 Teladoc reported a fourth quarter 2023 adjusted EBITDA increase of 22% to $114 million, and full year 2023 adjusted EBITDA grew 33% to $328 million.
 Teladoc CEO Jason Gorevic noted that the adjusted EBITDA for the direct-to-consumer mental health business BetterHelp increased 11% to $58 million in the fourth quarter and was up 19% to $136 million for the full year.
