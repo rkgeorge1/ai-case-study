@@ -1,6 +1,6 @@
 ## Overview and Origin
 
-* [Teladoc Health Inc.](htts://teladoc.com)
+* [Teladoc Health Inc.](https://teladoc.com)
 
 * Teladoc was founded in 2002 in Dallas, Texas by G. Byron Brooks EE MD and Michael Gorton. Billing itself as the oldest telemedicine company in United States,
 
@@ -21,7 +21,7 @@ The partnership with [(Microsoft’s)](https://microsoft.com) AI technologies pr
 In February 2022, Teladoc Health launched Chronic Care Complete, a program to help patients manage multiple chronic conditions. Early testing suggests these AI note-taking solutions produce documentation that is both accurate and coherent. This efficiency would allow doctors, nurses, and other providers to devote more of their limited time to direct patient care rather than administrative tasks. Just as importantly, it helps combat documentation burnout.
 
 * Teladoc is using Intelligent automation, powered by Microsoft’s AI technologies. Microsoft will integrate AI and clinical documentation technology, like Microsoft **Azure OpenAI Service**, **Azure Cognitive Services**, and the **Nuance Dragon Ambient eXperience™ (DAX™)** to its **Teladoc Health Solo™** virtual care platform. The integrated solutions will automate the creation of clinical documentation during virtual exams to help ease the burden on the healthcare workforce while improving the quality of shared medical information and the care it supports. The Teladoc Health Medical Group also plans to use **Nuance DAX Express** for care visits provided directly by Teladoc Health.
-Teladoc collaborated with Amazon for users to access Teladoc through [(Alexa)](https://en.wikipedia.org/wiki/Amazon_Alexa) and related voice-activated devices such as the 9[Echo)](https://en.wikipedia.org/wiki/Echo), [(Echo Dot)](https://en.wikipedia.org/wiki/Amazon_Echo#Echo_Dot), and Echo Show.
+Teladoc collaborated with Amazon for users to access Teladoc through [(Alexa)](https://en.wikipedia.org/wiki/Amazon_Alexa) and related voice-activated devices such as the [Echo)](https://en.wikipedia.org/wiki/Echo), [(Echo Dot)](https://en.wikipedia.org/wiki/Amazon_Echo#Echo_Dot), and Echo Show.
 
 ## Landscape
 
