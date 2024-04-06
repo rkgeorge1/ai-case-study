@@ -99,7 +99,7 @@ San Francisco-based health tech startup [Forward](https://goforward.com/about-us
 
 * Teladoc is financially and technologically well positioned and can grow their market share by rolling out AI based clinics or investing in companies and technologies such as Ping An, Vitalchat and Forward.
 
-Sources:
+**Sources**:
 
 1. [Fortune Business Insights](https://www.fortunebusinessinsights.com/industry-reports/telemedicine-market-101067)
 2. [Fierce Healthcare](https://www.fiercehealthcare.com/health-tech/teladoc-taps-microsoft-integrate-ai-ambient-clinical-tech-its-telehealth-platform)
