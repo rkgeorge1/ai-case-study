@@ -6,7 +6,7 @@
 
 * Teladoc's initial business model allowed patients to remotely consult with state-licensed doctors at any time. In particular, Teladoc Health uses telephone and videoconferencing software as well as mobile apps to provide **on-demand** remote medical care. Teladoc has leveraged AI to streamline and optimize various aspects of healthcare delivery and clinical documentation. **Intelligent automation**, powered by Microsoft’s **AI technologies**, is expected to enhance the efficiency of administrative tasks, allowing healthcare professionals to focus more on patient care and less on paperwork.
 
-* Teladoc is a publicly traded company under the symbol [TDOC](https://www.nasdaq.com/market-activity/stocks/tdoc)
+* Teladoc is a publicly traded company under the symbol [TDOC](https://www.nasdaq.com/market-activity/stocks/tdoc).
 
 ## Business Activities
 
