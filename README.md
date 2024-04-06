@@ -78,7 +78,7 @@ A [list](https://bstrategyhub.com/teladoc-competitors-and-alternatives/#2_OneMed
 
 ## Results
 
-**Financials and Performance Metrics**
+*Financials and Performance Metrics
 Telaodoc's 2023 revenue grew 8% to $2.6 billion from $2.4 billion a year ago. The company's integrated care segment brought in revenue of $1.5 billion, up 7% from a year ago, and BetterHelp revenue jumped 11% to reach $1.1 billion in 2023.
 Teladoc reported a fourth quarter 2023 adjusted EBITDA increase of 22% to $114 million, and full year 2023 adjusted EBITDA grew 33% to $328 million.
 Teladoc CEO Jason Gorevic noted that the adjusted EBITDA for the direct-to-consumer mental health business BetterHelp increased 11% to $58 million in the fourth quarter and was up 19% to $136 million for the full year.
