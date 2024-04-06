@@ -58,6 +58,7 @@ The homecare segment is projected to witness the fastest CAGR over the forecast 
 
 * Other Major Companies
 American Well, Ping An Good Doctor, and GlobalMed also held significant shares of the market. Delivery of novel services for the treatment of various chronic diseases and strong focus on expanding their geographical presence are expected to favor the growth of these companies. However, increasing investments and unique business models of start-up companies are anticipated to change the competitive landscape of the market in the upcoming years. These firms are receiving high funding from equity firms for expanding their businesses. For instance, in April 2022, **Avi Medical**, a German healthtech startup, received a series B funding of USD 54.5 million (€50 million) to expand its telemedicine platform. The company’s patient-facing app helps monitor their health. Similarly, in June 2019, Zava received funding of USD 32 million. The company said that it was planning to use this capital to expand its services in this market and across Europe.
+
 A [list](https://bstrategyhub.com/teladoc-competitors-and-alternatives/#2_OneMedical) of competitors are below:
 
 1. **Amwell**
